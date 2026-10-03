@@ -13,3 +13,11 @@ playwright-report/
 .vscode/
 trajectory.jsonl
 trajectory.md.jsonl
+
+# TS build info
+*.tsbuildinfo
+
+# Playwright local runs
+/test-results/
+/playwright-report/
+/playwright/.cache/
